@@ -1,8 +1,8 @@
 # Lab 11
 
-## Student Portfolio
+## Git & GitHub Lab Task
 
-This is a simple portfolio website created using HTML and CSS.
+This is a simple HTML and CSS website created for the Git & GitHub Lab.
 
 Created by:
 Aebad Humair
